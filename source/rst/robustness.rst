@@ -65,7 +65,7 @@ The original decision maker uses those bounds to construct a decision rule with 
 
 .. _rb_vec:
 
-Sets of Models Imply Sets Of Values
+Sets of Models Imply Sets of Values
 ----------------------------------------
 
 Our "robust" decision maker wants to know how well a given rule will work when he does not *know* a single transition law  :math:`\ldots`
@@ -607,7 +607,7 @@ To construct the *upper bound* on the set of values associated all perturbations
     *  Repeat the preceding three steps  for a range of values of :math:`\tilde \theta` to trace out the upper bound
 
 
-Reshaping the set of values
+Reshaping the Set of Values
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
